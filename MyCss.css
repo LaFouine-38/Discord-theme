@@ -1,0 +1,96 @@
+@import url("C:/Users/thoma/Desktop/workspaces (all)/discord theme/Frosted-Glass.theme.css");
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans');
+:root {
+--background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/War_Ensign_of_Germany_%281938–1945%29.svg/375px-War_Ensign_of_Germany_%281938–1945%29.svg.png');
+--background-image-blur: 0px;
+--background-image-size: cover;
+--background-image-position: center;
+--popout-modal-image: url('https://i.jeuxactus.com/datas/divers/d/i/divers-jeux-video/xl/divers-jeux-video-5b6e971b5ff5d.jpg');
+--popout-modal-blur: 0px;
+--popout-modal-size: contain;
+--popout-modal-position: center;
+--home-button-image: url('https://cdn.discordapp.com/attachments/713433387766906912/938451612492529734/unknown.png');
+--home-button-size: cover;
+--home-button-position: center;
+--serverlist-brightness: 0.8;
+--left-brightness: 0.8;
+--middle-brightness: 0.6;
+--right-brightness: 0;
+--popout-modal-brightness: 0.75;
+--gradient-primary: 255,243,0;
+--gradient-secondary: 255,113,0;
+--gradient-direction: 300deg;
+--tint-colour: 227,173,0;
+--tint-brightness: 0.5;
+--window-padding: 10px;
+--window-roundness: 10px;
+--scrollbar-colour: #FFCC28F6;
+--link-colour: #00b0f4;
+--show-gift-gif-buttons: no-repeat;
+--font: 'PT Sans';
+--update-notice-1: none;
+--rs-small-spacing: 2px;
+--rs-medium-spacing: 3px;
+--rs-large-spacing: 4px;
+--rs-small-width: 2px;
+--rs-medium-width: 3px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 25%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #747f8d;
+--rs-phone-visible: block;
+--version: "LaFouineTheme V1";
+/*--interactive-hover: yellow;*/
+--interactive-hover: black;/*default: #eee, text colors*/
+--member-bar-select: black;/*default: ?, text colors dans la barre lattérale*/
+--selected-text-color: black; /*texte quand selectionné (sur le degrade)*/
+--background-modifier-hover: yellow; /* fond derriere les pseudos (barre latérale)*/
+/*--background-message-hover: yellow;*/
+/*--deprecated-text-input-border-hover: yellow;*/
+
+}
+
+.markup-eYLPri:hover {
+  background: rgb(255, 255, 0, 0.20);
+} /*messages*/
+
+.layout-1qmrhw:hover{
+  transition: 0.4s
+} /*utilisateur barre latérale*/
+.selected-1-Z6gm.container-1oeRFJ {
+  color: var(--member-bar-select);
+  background: black;
+}
+
+div.modeSelected-3DmyhH > div > a > div > div.channelName-3KPsGw{
+  color: black; 
+  
+} /*channel selectionné */
+
+#app-mount .containerDefault-YUSmu3 .wrapper-1ucjTd:hover .content-1gYQeQ .icon-2W8DHg:hover {
+  color: black;
+}
+.channel-1Shao0.container-1oeRFJ.selected-1-Z6gm {
+  background: black;
+}
+
+.channel-1Shao0.selected-1-Z6gm {
+  background: black !important;
+} /*utilisateur barre lattérale selectionné background*/
+#app-mount .containerDefault-YUSmu3.selected-2TbFuo .content-1gYQeQ .icon-2W8DHg:hover {
+  color: black;
+}
+
+
+
+
+
+
+
+
+
